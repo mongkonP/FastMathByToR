@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastMathByToR", "FastMathByToR\FastMathByToR.csproj", "{F6EC9EDF-1E15-4153-AFA3-5AB5F575191E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FastMathByToR_Setup", "FastMathByToR_Setup\FastMathByToR_Setup.vdproj", "{19A1039B-3968-457C-8820-C621DAAFFE5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EC9EDF-1E15-4153-AFA3-5AB5F575191E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EC9EDF-1E15-4153-AFA3-5AB5F575191E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EC9EDF-1E15-4153-AFA3-5AB5F575191E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC9EDF-1E15-4153-AFA3-5AB5F575191E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A1039B-3968-457C-8820-C621DAAFFE5F}.Debug|Any CPU.ActiveCfg = Debug
+		{19A1039B-3968-457C-8820-C621DAAFFE5F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AE2C14-5E25-4D0A-B1D5-9CEB40D2EBBA}
+	EndGlobalSection
+EndGlobal
